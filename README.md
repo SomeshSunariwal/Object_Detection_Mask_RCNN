@@ -69,3 +69,7 @@ and understand by yourself
 3. Video Detect - and Black Mask.py
 4. Video_detect and Record.py
 5. Readme.txt
+
+# OUTPUT MUST BE:
+
+![](images\Image_1.png)
