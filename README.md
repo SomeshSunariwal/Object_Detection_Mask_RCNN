@@ -3,7 +3,7 @@
 
 This is a program of Object Detection by using the Mask_RCNN
 .  
-This program is written by "Somesh Sunariwal" Student of NIT Srinagar at IISc Banglore.
+This program is written by "Diksha Rani" and "Somesh Sunariwal" Student of NIT Srinagar at IISc Banglore.
 
 Mask RCNN is a deep neural network aimed to solve instance segmentation problem in machine learning or computer vision.
 In other words, it can separate different objects in a image or a video.
