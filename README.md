@@ -71,8 +71,9 @@ and understand by yourself
 5. Readme.md
 
 # OUTPUT MUST BE:
+![](images/Image_2.png)  
 
 ![](images/Image_1.png)
 
 
-![](images/Image_2.png)
+
