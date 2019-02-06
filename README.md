@@ -14,7 +14,7 @@ You give it a image, it gives you the object bounding boxes, classes and masks
 
 # Pre-Requirement( Dependencies ):
 
-Step 1: Install python 3.6 or newer one (if tensorflow-gpu support available)
+Step 1: Install python 3.6 or newer one (if tensor flow-GPU support available)
 Step 2: install the dependencies
 Step 3: Download the Mask_RCNN repo
 Step 4: install pycocotools
@@ -54,12 +54,12 @@ install the pycocotools
 "pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI"  
 
 # Step 5 
-Downoad the pretrained Weights from "https://github.com/matterport/Mask_RCNN/releases"  
+Download the pre-trained Weights from "https://github.com/matterport/Mask_RCNN/releases"  
 download the mask_rcnn_coco.h5 file from Mask R-CNN 2.0  
 place the file in the Mask_RCNN directory  
 
 if you want to proceed further more like Black mask extraction.  
-Go throuth the File no. 2 and 3  
+Go through the File no. 2 and 3  
 and understand by yourself
 
 # Files in the repo :  
@@ -68,8 +68,8 @@ and understand by yourself
 2. Images_detect - Black Mask.py
 3. Video Detect - and Black Mask.py
 4. Video_detect and Record.py
-5. Readme.txt
+5. Readme.md
 
 # OUTPUT MUST BE:
 
-(images\Image_1.png)
+![](images\Image_1.png)
