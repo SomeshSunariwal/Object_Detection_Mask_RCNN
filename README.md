@@ -72,4 +72,5 @@ and understand by yourself
 
 # OUTPUT MUST BE:
 
-![](images\Image_1.png)
+![](images/Image_1.png)
+![](images/Image_2.png)
