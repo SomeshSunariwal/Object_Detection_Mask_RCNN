@@ -70,7 +70,7 @@ and understand by yourself
 4. Video_detect and Record.py
 5. Readme.md
 
-# OUTPUT MUST BE:
+# OUTPUT:
 ![](images/Image_2.png)  
 
 ![](images/Image_1.png)
