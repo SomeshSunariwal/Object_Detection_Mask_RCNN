@@ -14,12 +14,20 @@ You give it a image, it gives you the object bounding boxes, classes and masks
 
 # Pre-Requirement( Dependencies ):
 
-Step 1: Install python 3.6 or newer one (if tensor flow-GPU support available)
-Step 2: install the dependencies
-Step 3: Download the Mask_RCNN repo
-Step 4: install pycocotools
-Step 5: download the pre-trained weights
+Step 1: Install python 3.6 or newer one (if tensor flow-GPU support available)  
+Step 2: install the dependencies  
+Step 3: Download the Mask_RCNN repo  
+Step 4: install pycocotools  
+Step 5: download the pre-trained weights  
 Step 6: Test it
+  
+Requirements  
+
+      Python 3.4+  
+      TensorFlow 1.3+  
+      Keras 2.0.8+  
+      Jupyter Notebook  
+      Numpy, skimage, scipy  
 
 # Step 1:
 
