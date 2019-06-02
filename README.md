@@ -25,7 +25,7 @@ Requirements
 
       Python 3.4+  
       TensorFlow 1.3+  
-      Keras 2.0.8+  
+      Keras 2.1.0  
       Jupyter Notebook  
       Numpy, skimage, scipy  
 
@@ -37,7 +37,7 @@ Download the python from "https://www.python.org/downloads/"
 install the following library.
 
 use the following command in command line 
-"pip install numpy scipy cython h5py Pillow scikit-image keras==2.0.8 jupyter"
+"pip install numpy scipy cython h5py Pillow scikit-image keras==2.1.0 jupyter"
 
 install the tensorflow gpu version
 may this video link will be helpfull "https://youtu.be/r7-WPbx8VuY"
