@@ -29,7 +29,7 @@ Download the python from "https://www.python.org/downloads/"
 install the following library.
 
 use the following command in command line 
-"pip install numpy scipy cython h5py Pillow scikit-image keras jupyter"
+"pip install numpy scipy cython h5py Pillow scikit-image keras==2.0.8 jupyter"
 
 install the tensorflow gpu version
 may this video link will be helpfull "https://youtu.be/r7-WPbx8VuY"
