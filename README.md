@@ -70,7 +70,7 @@ if you want to proceed further more like Black mask extraction.
 Go through the File no. 2 and 3  
 and understand by yourself
 
-# Files in the repo :  
+# Files in this repo :  
 
 1. Images detect.py
 2. Images_detect - Black Mask.py
